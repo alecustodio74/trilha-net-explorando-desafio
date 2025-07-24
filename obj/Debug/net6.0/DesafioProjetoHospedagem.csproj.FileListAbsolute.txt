@@ -1,0 +1,15 @@
+E:\Alexandre\Estudos\Informática\DIO_Curso\Projetos\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+E:\Alexandre\Estudos\Informática\DIO_Curso\Projetos\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+E:\Alexandre\Estudos\Informática\DIO_Curso\Projetos\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+E:\Alexandre\Estudos\Informática\DIO_Curso\Projetos\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+E:\Alexandre\Estudos\Informática\DIO_Curso\Projetos\trilha-net-explorando-desafio\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+E:\Alexandre\Estudos\Informática\DIO_Curso\Projetos\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Alexandre\Estudos\Informática\DIO_Curso\Projetos\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+E:\Alexandre\Estudos\Informática\DIO_Curso\Projetos\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+E:\Alexandre\Estudos\Informática\DIO_Curso\Projetos\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+E:\Alexandre\Estudos\Informática\DIO_Curso\Projetos\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.sourcelink.json
+E:\Alexandre\Estudos\Informática\DIO_Curso\Projetos\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+E:\Alexandre\Estudos\Informática\DIO_Curso\Projetos\trilha-net-explorando-desafio\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+E:\Alexandre\Estudos\Informática\DIO_Curso\Projetos\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+E:\Alexandre\Estudos\Informática\DIO_Curso\Projetos\trilha-net-explorando-desafio\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+E:\Alexandre\Estudos\Informática\DIO_Curso\Projetos\trilha-net-explorando-desafio\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
